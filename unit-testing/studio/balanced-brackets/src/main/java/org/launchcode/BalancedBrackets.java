@@ -1,4 +1,4 @@
-package org.launchcode;
+package launchcode;
 public class BalancedBrackets {
     /*
      * The function BalancedBrackets should return true if and only if
